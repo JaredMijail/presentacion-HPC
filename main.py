@@ -338,7 +338,7 @@ with st.sidebar:
 
     st.markdown(
         "<div style='text-align:center; color:#475569; font-size:0.72rem; line-height:1.5;'>"
-        "Universidad Nacional de Colombia<br>Facultad de Ingeniería</div>",
+        "Universidad Nacional de Colombia<br>Facultad de Ciencias</div>",
         unsafe_allow_html=True
     )
 
