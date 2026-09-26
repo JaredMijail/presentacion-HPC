@@ -568,7 +568,7 @@ elif seleccion == "🎓 Cierre":
     st.markdown("""
         <div style='text-align:center; color:#64748b; margin-top:10px; line-height:1.7;'>
             <b style='color:#22d3ee;'>SIMG</b> · Semillero de HPC en Modelos Generativos<br>
-            <i>Universidad Nacional de Colombia · Facultad de Ingeniería</i>
+            <i>Universidad Nacional de Colombia · Facultad de Ciencias</i>
         </div>
     """, unsafe_allow_html=True)
 
