@@ -426,7 +426,7 @@ if seleccion == "🏠 Inicio":
         st.markdown("""
         Los modelos que hoy usamos —LLMs, difusión, video generativo— **no son posibles sin HPC**.
         Cada avance algorítmico (FlashAttention, LoRA, FP8) es, en el fondo, una
-        **decisión de ingeniería de sistemas**. Este semillero une las dos mitades:
+        **decisión de HPC**. Este semillero une las dos mitades:
 
         - **HPC:** hardware, jerarquía de memoria, MPI/NCCL, paralelismo, profiling.
         - **IA generativa:** Transformers, difusión, VAEs, flow matching, despliegue.
